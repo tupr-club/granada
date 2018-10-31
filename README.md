@@ -4,9 +4,12 @@ TuPR.club es una comunidad de aficionados al software libre y/o la
 cocina. Su funcionamiento es así: se incluye (mediante un *pull
 request*) un túper de comida casera por la aceptación de un *pull
 request* en el proyecto que indiques, así como una *fecha de
-caducidad* de la oferta (del táper o del proyecto). La persona que
+caducidad* de la oferta (del táper o del proyecto). 
+
+
+La persona que
 haga el PR tendrá que indicarlo en esta misma página, haciendo un PR
-con un enlace al mismo aceptado. 
+con un enlace al mismo aceptado. Una vez que se haga esto, las dos personas que lo hayan hecho quedarán para la entrega del túper con la comida prometida.
 
 
 
