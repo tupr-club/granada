@@ -1,2 +1,17 @@
-# granada
-Ofertas y archivo de tápers en Granada
+# Un túper por tu PR
+
+TuPR.club es una comunidad de aficionados al software libre y/o la
+cocina. Su funcionamiento es así: se incluye (mediante un *pull
+request*) un túper de comida casera por la aceptación de un *pull
+request* en el proyecto que indiques, así como una *fecha de
+caducidad* de la oferta (del táper o del proyecto). La persona que
+haga el PR tendrá que indicarlo en esta misma página, haciendo un PR
+con un enlace al mismo aceptado. 
+
+
+
+| Quién                         | Comida                                 | Proyecto              | Caducidad  | Realizado        |
+|-------------------------------|----------------------------------------|-----------------------|------------|------------------|
+| [JJ](https://github.com/JJ)   | Spaghetti al alio, olio e peperoncino  | [Documentación Perl 6](https://github.com/perl6/doc)  | 6/11/2018  |   |
+| [JJ](https://github.com/JJ)   | Penne al pesto rosso                   | [Documentación Perl 6](https://github.com/perl6/doc)  | 6/11/2018  |   |
+| [JJ](https://github.com/JJ)   | Frittata de jamón y guisantes          | [Documentación Perl 6](https://github.com/perl6/doc)  | 6/11/2018  |   |
