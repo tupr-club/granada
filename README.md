@@ -15,8 +15,14 @@ con un enlace al mismo aceptado. Una vez que se haga esto, las dos personas que 
 
 | Quién                         | Comida                                 | Proyecto              | Caducidad  | Realizado        |
 |-------------------------------|----------------------------------------|-----------------------|------------|------------------|
-| [JJ](https://github.com/JJ)   | Risotto de salmón y anchoas  | [Documentación Perl 6](https://github.com/perl6/doc)  | 6/11/2018  |[Luis Balderas Ruiz](https://github.com/luisbalru), https://github.com/perl6/doc/pull/2428  |
+| [JJ](https://github.com/JJ)   | Garbanzos fritos con chorizo           | [Apuntes de infraestructura virtual](https://github.com/JJ/IV)  | 31/12/2018  | |
 | [JJ](https://github.com/JJ)   | Spaghetti al alio, olio e peperoncino  | [Documentación Perl 6](https://github.com/perl6/doc)  | 6/11/2018  |   |
-| [JJ](https://github.com/JJ)   | Penne al pesto rosso                   | [Documentación Perl 6](https://github.com/perl6/doc)  | 6/11/2018  |  |
+| [JJ](https://github.com/JJ)   | Penne al pesto rosso                   | [Documentación Perl 6](https://github.com/perl6/doc)  | 6/11/2018  |   |
 | [JJ](https://github.com/JJ)   | Frittata de jamón y guisantes          | [Documentación Perl 6](https://github.com/perl6/doc)  | 6/11/2018  |   |
 | [JJ](https://github.com/JJ)   | Café y tostada en "La Posada"          | [Tupr.club](https://github.com/tupr-club/granada)     | 30/11/2018 |   |
+
+## PRs ya aceptados (y túpers entregados)
+
+| Quién                         | Comida                                 | Proyecto              | Caducidad  | Realizado        |
+|-------------------------------|----------------------------------------|-----------------------|------------|------------------|
+| [JJ](https://github.com/JJ)   | Risotto de salmón y anchoas            | [Documentación Perl 6](https://github.com/perl6/doc)  | 6/11/2018  |[Luis Balderas Ruiz](https://github.com/luisbalru), https://github.com/perl6/doc/pull/2428  |
